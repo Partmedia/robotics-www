@@ -4,11 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'PSH Robotics Team'
 SITENAME = u'PSH Robotics'
-SITEURL = ''
-
-TIMEZONE = 'America/Chicago'
+SITEURL = 'http://pshrobotics.org'
 
 DEFAULT_LANG = u'en'
+TIMEZONE = 'America/Chicago'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -30,3 +29,6 @@ RELATIVE_URLS = True
 
 # Set to our custom theme
 THEME = "theme"
+
+DEFAULT_CATEGORY = 'News'
+USE_FOLDER_AS_CATEGORY = False
