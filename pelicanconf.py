@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'PSH Robotics Team'
-SITENAME = u'PSH Robotics'
+AUTHOR = 'PSH Robotics Team'
+SITENAME = 'PSH Robotics'
 SITEURL = 'http://pshrobotics.org'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 TIMEZONE = 'America/Chicago'
 
 # Feed generation is usually not desired when developing
@@ -27,8 +27,6 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-# Set to our custom theme
+#### Theme Settings ####
 THEME = "theme"
-
-DEFAULT_CATEGORY = 'News'
 USE_FOLDER_AS_CATEGORY = False
