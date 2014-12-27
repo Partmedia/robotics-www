@@ -1,9 +1,8 @@
-About
-=====
+Title: About
 
 Parkway South Robotics fields several FIRST FTC teams (406, 407, and 408) in addition to its FRC team (1182).
 
-image::http://pshrobotics.org/images/team-2011.jpg[]
+![2011 Team Picture](http://pshrobotics.org/images/team-2011.jpg)
 
 We are comprised of students of all ages and backgrounds, which includes some of the brightest and most dedicated students at Parkway South High. They often also excel in other activities like sports, art, music, academics, and performance. Students take a break from those activities to fully submerge themselves in designing, building, and promoting the robots for both the FRC and FTC competitions. This is a big time commitment but it is interesting, engaging, and always fun!
 
