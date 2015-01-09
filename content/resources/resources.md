@@ -1,4 +1,7 @@
-Title: Resources
+Title: Team Resources
+Category: Resources
+Author: Kevin Zheng
+Date: 2014-01-26
 
 Team meetings are generally held every Monday after school in the robotics room near the Tech Ed. department. Each team may meet more or less frequently; ask the team captain to be sure.
 
