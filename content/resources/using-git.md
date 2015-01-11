@@ -1,7 +1,10 @@
 Title: Using Git
 Category: Resources
 Author: Kevin Zheng
-Date: 2015-01-08
+Date: 2015-01-11
+
+Updated on 2015-01-11 with new clone URLs, clarification on Git commands,
+and a new 'Further Reading' subsection.
 
 ### Installation
 [Download Git](http://www.git-scm.com/downloads) for your operating system.
@@ -18,6 +21,11 @@ Open the folder that you want to store your local Git repositories in. Right
 click in that folder and open Git Bash. At the prompt, type (or copy/paste)
 one or more of the following commands:
 
+- Robot Program: `git clone https://github.com/Partmedia/ftc-2014.git`
+- Website: `git clone https://github.com/Partmedia/robotics-www.git`
+
+Alternatively, if you have an account on GitHub and prefer to clone via SSH:
+
 - Robot Program: `git clone git@github.com:Partmedia/ftc-2014.git`
 - Website: `git clone git@github.com:Partmedia/robotics-www.git`
 
@@ -28,6 +36,8 @@ Make sure you are running Git Bash **inside** the repository you just cloned.
 You can close the original Git Bash and open another inside the newly-created
 folder. More adventurous people who think they're "tech-savvy" may attempt to
 use the `cd` command. This is left as an exercise to the reader.
+
+Here are some common tasks and their commands, in no particular order:
 
 - Check the status of your working copy: `git status`
 - Check what modifications you made: `git diff`
@@ -81,3 +91,7 @@ Git does not automatically keep your local repository in-sync (if it did that,
 your changes could be lost). Instead, you must run this often:
 
 `git fetch; git rebase`
+
+### Further Reading
+- [Pro Git](http://www.git-scm.com/book/en/v2) by Scott Chacon
+  (highly recommended)
